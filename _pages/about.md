@@ -11,8 +11,8 @@ At present, I'm working on the Ph.D degree with Prof. Dr.-Ing Ali Nasseri and Pr
 
 Research Interests
 ------
-- **Eye Diseases:**longitudinal data analysis in disease inference, diagnosis, biomarker discovery 
-- **Artificial Intelligence:**multimodal pathology analysis by employing AI methodologies.
+- **Eye Diseases:** longitudinal data analysis in disease inference, diagnosis, biomarker discovery 
+- **Artificial Intelligence:** multimodal pathology analysis by employing AI methodologies.
 
 <!--A data-driven personal website
 ======
