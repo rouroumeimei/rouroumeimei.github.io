@@ -7,7 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-Yinzheng Zhao received the B.Sc. in Clinical Medicine from Xi'an Medical University and M.Sc degree in Ophthalmology from Beijing Children's Hospital, Capital Medical University, China. At present, She is working on the Ph.D degree with Prof. Dr.-Ing Ali Nasseri and Prof. Dr. med. Mathias Maier in the Medical Autonomy and Precision Surgery (MAPS) laboratory at Klinikum rechts der Isar, TUM MRI. Her research interests include longitudinal data analysis in disease inference, diagnosis, biomarker discovery and multimodal pathology analysis by employing AI methodologies.
+At present, I'm working on the Ph.D degree with Prof. Dr.-Ing Ali Nasseri and Prof. Dr. med. Mathias Maier in the Medical Autonomy and Precision Surgery (MAPS) laboratory at Klinikum rechts der Isar, MRI, Technical University of Munich. 
+
+Research Interests
+------
+- **Eye Diseases:**longitudinal data analysis in disease inference, diagnosis, biomarker discovery 
+- **Artificial Intelligence:**multimodal pathology analysis by employing AI methodologies.
 
 <!--A data-driven personal website
 ======
