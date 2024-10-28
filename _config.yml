@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Zhihao Zhao / Homepage"
+title                    : "Yinzheng Zhao / Homepage"
 title_separator          : "-"
-name                     : &name "Zhihao Zhao"
-description              : &description "Medical imaging, Eye Surgery Robot"
+name                     : &name "Yinzheng Zhao"
+description              : &description "Medical imaging, Ophthalmology, DR, AMD, Macular Hole, Eye Surgery Robot"
 url                      : https://AIEyeSystem.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "AIEyeSystem/AIEyeSystem.github.io"
@@ -22,17 +22,17 @@ repository               : "AIEyeSystem/AIEyeSystem.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Zhihao Zhao"
+  name             : "Yinzheng Zhao"
   pronouns         : # example: "she/her"  
-  bio              : "Medical imaging, Eye Surgery Robot"
+  bio              : "Medical imaging, Ophthalmology, DR, AMD, Macular Hole, Eye Surgery Robot"
   location         : "Earth"
   employer         : "Technical University of Munich"
   uri              : # URL
-  email            : "zhihao.zhao@tum.de" 
+  email            : "yinzheng.zhao@tum.de" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=6Ms3bI8AAAAJ&view_op=list_works"
+  googlescholar    : "https://scholar.google.com/citations?user=OOG5PEQAAAAJ&hl=zh-CN"
   impactstory      : # URL
   orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -69,7 +69,7 @@ author:
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
-  xing             : # Username
+  REDnote          : # Username
   youtube          : # Username
   zhihu            : # Username
 
