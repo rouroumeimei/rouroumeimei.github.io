@@ -39,7 +39,7 @@ Dissemination of key techniques for dynamic stereoscopic visual impairment asses
 - Yang J, Zhao Z, **Zhao Y**, et al. Intraocular Reflection Modeling and Avoidance Planning in Image-Guided Ophthalmic Surgeries", Accepted at IEEE IROS 2024.
 - Zhao Z, Faghihroohi S, **Zhao Y**, Yang J, et al. KaLDeX: Kalman Filter based Linear Deformable Cross Attention for Retina Vessel Segmentation. https://arxiv.org/abs/2410.21160.
 
-### 2023:
+### -2023:
 - **Zhao Y**, Jablonka A M, Maierhofer N A, et al. Comparison of robot-assisted and manual cannula insertion in simulated big-bubble deep anterior lamellar keratoplasty. Micromachines, 2023, 14(6): 1261.
 - **Zhao Y**, Yu J, Li L. Research progress of artificial intelligence in different age groups in the ophthalmology. Strabismus and Pediatric Ophthalmology,2022,30(01): 35-37.
 - Chu H, **Zhao Y**, Zhang J, et al. Efficacy analysis of different early intervention methods in children with myopia. Strabismus and Pediatric Ophthalmology, 2022, 30(01): 1-3.
