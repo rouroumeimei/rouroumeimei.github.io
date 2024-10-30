@@ -34,6 +34,7 @@ Dissemination of key techniques for dynamic stereoscopic visual impairment asses
 ### 2024:
 
 - **Zhao, Y.**, Zhao, Z., Yang, J. et al. AI-based fully automatic analysis of retinal vascular morphology in pediatric high myopia. BMC Ophthalmol，2024，24, 415.
+- Zhao Z, **Zhao Y**, Yang J, et al. KLDD: Kalman Filter based Linear Deformable Diffusion Model in Retinal Image Segmentation.Accepted at BIBM 2024, Image and Video Processing (eess.IV); Artificial Intelligence (cs.AI); Computer Vision and Pattern Recognition (cs.CV)
 
 
 
