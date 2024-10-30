@@ -23,7 +23,7 @@ At present, I'm working on the Ph.D degree with Prof. Dr.-Ing Ali Nasseri and Pr
 
 ## Projects
 
--**National Natural Science Foundation**，**Main Participation**, 2019.10 - 2022.08
+-**National Natural Science Foundation**，**Main Participation**, 2019.10 - 2022.08 <br>
 Research on the pathogenesis of high myopia related to emmetropism in young children based on big data systems
 
 
