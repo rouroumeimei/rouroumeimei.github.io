@@ -37,6 +37,7 @@ Dissemination of key techniques for dynamic stereoscopic visual impairment asses
 - Zhao Z, **Zhao Y**, Yang J, et al. KLDD: Kalman Filter based Linear Deformable Diffusion Model in Retinal Image Segmentation.Accepted at BIBM 2024, Image and Video Processing (eess.IV); Artificial Intelligence (cs.AI); Computer Vision and Pattern Recognition (cs.CV)
 - Zhao Z, Yang J, Shahrooz Faghihroohi, **Zhao Y.** et al. Extrapolating Prospective Glaucoma Fundus Images through Diffusion in Irregular Longitudinal Sequences.Accepted at IEEE BIBM 2024, Image and Video Processing (eess.IV); Artificial Intelligence (cs.AI); Computer Vision and Pattern Recognition (cs.CV)
 - Yang J, Zhao Z, **Zhao Y**, et al. Intraocular Reflection Modeling and Avoidance Planning in Image-Guided Ophthalmic Surgeries", Accepted at IEEE IROS 2024.
+- Zhao Z, Faghihroohi S, **Zhao Y**, Yang J, et al. KaLDeX: Kalman Filter based Linear Deformable Cross Attention for Retina Vessel Segmentation. https://arxiv.org/abs/2410.21160.
 
 ### 2023:
 - **Zhao Y**, Jablonka A M, Maierhofer N A, et al. Comparison of robot-assisted and manual cannula insertion in simulated big-bubble deep anterior lamellar keratoplasty. Micromachines, 2023, 14(6): 1261.
