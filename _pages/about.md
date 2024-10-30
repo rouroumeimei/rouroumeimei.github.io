@@ -36,7 +36,14 @@ Dissemination of key techniques for dynamic stereoscopic visual impairment asses
 - **Zhao, Y.**, Zhao, Z., Yang, J. et al. AI-based fully automatic analysis of retinal vascular morphology in pediatric high myopia. BMC Ophthalmol，2024，24, 415.
 - Zhao Z, **Zhao Y**, Yang J, et al. KLDD: Kalman Filter based Linear Deformable Diffusion Model in Retinal Image Segmentation.Accepted at BIBM 2024, Image and Video Processing (eess.IV); Artificial Intelligence (cs.AI); Computer Vision and Pattern Recognition (cs.CV)
 - Zhao Z, Yang J, Shahrooz Faghihroohi, **Zhao Y.** et al. Extrapolating Prospective Glaucoma Fundus Images through Diffusion in Irregular Longitudinal Sequences.Accepted at IEEE BIBM 2024, Image and Video Processing (eess.IV); Artificial Intelligence (cs.AI); Computer Vision and Pattern Recognition (cs.CV)
-- Junjie Yang, Zhihao Zhao, **Yinzheng Zhao**, et al. Intraocular Reflection Modeling and Avoidance Planning in Image-Guided Ophthalmic Surgeries", Accepted at IEEE IROS 2024.
+- Yang J, Zhao Z, **Zhao Y**, et al. Intraocular Reflection Modeling and Avoidance Planning in Image-Guided Ophthalmic Surgeries", Accepted at IEEE IROS 2024.
+
+### 2023:
+- **Zhao Y**, Jablonka A M, Maierhofer N A, et al. Comparison of robot-assisted and manual cannula insertion in simulated big-bubble deep anterior lamellar keratoplasty. Micromachines, 2023, 14(6): 1261.
+- **Zhao Y**, Yu J, Li L. Research progress of artificial intelligence in different age groups in the ophthalmology. Strabismus and Pediatric Ophthalmology,2022,30(01): 35-37.
+- Chu H, **Zhao Y**, Zhang J, et al. Efficacy analysis of different early intervention methods in children with myopia. Strabismus and Pediatric Ophthalmology, 2022, 30(01): 1-3.
+- **Zhao Y**, Yu J, Chu H, et al. Study on the effect of astigmatism on the changes of eye axis in children. Strabismus and Pediatric Ophthalmology, 2021, 29(04): 29-30.
+- Wen, P.C., Guan, Y., Li, J.Q., Mahmood, T., **Zhao, YZ.**. A Fundus Image Myopia Diagnosis Model Based on Homogeneous Multimodal Feature Fusion. In: Hung, J.C., Yen, N.Y., Chang, JW. (eds) Frontier Computing. FC 2022. Lecture Notes in Electrical Engineering, vol 1031. Springer, Singapore. 
 
 
 
