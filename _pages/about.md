@@ -30,7 +30,7 @@ Research on the pathogenesis of high myopia related to emmetropism in young chil
 Dissemination of key techniques for dynamic stereoscopic visual impairment assessment and restoration of disadvantaged children.
 
 
-## Publications
+## Publications <br>
 ## 2024:
 
 - **Zhao, Y.**, Zhao, Z., Yang, J. et al. AI-based fully automatic analysis of retinal vascular morphology in pediatric high myopia. BMC Ophthalmol，2024，24, 415.
